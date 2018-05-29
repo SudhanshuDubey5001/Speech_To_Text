@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "681558716777",
+    "firebase_url": "https://cloudspeech-1527056457862.firebaseio.com",
+    "project_id": "cloudspeech-1527056457862",
+    "storage_bucket": "cloudspeech-1527056457862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681558716777:android:d1d60fb3fbd124b1",
+        "android_client_info": {
+          "package_name": "speech.my.com.cloudspeechtotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681558716777-ofhu7gob0pjr82vgrv7am0j8oliluhfm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "681558716777-ofhu7gob0pjr82vgrv7am0j8oliluhfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZDf_BV9IxN8JC2pwv19OXN5oiGON1-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

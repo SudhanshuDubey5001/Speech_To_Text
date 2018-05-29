@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudspeech-1527056457862",
+  "private_key_id": "ddd23b4cc5c22e4c3f6eb240a24c74399d19fa5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDviukW+o1irRIm\nOJ1/FcCASEb5YnBqfjxRg9OMP4JUkhcR9xeTT6ajn2WIs3mowObYPqf1crte82Qp\n283LcAMytZZ/HQOO7lp4iZ067tQwD92N4AyBmFaNgnn3/qlsY1abdBtO/mBkiqMQ\nSsgPTGz60OvOblb5QZJTW1WHJdMvDfMDM7voEFoXItwgAgcJ2FzQR2/OlUOTaabG\nu9udlBXqmWV2x02VHffk/Lp/qNTLSJA2uquoHn/0xEU6+JfRX7ivKbhCv8wrlDOm\n69qvWCRnfXMYCdyYdoZbplL6QX/Yx2vMP0WgcDEw3yhV4cwTvit6jVu/hHVPiogo\nMhcFQRIbAgMBAAECggEAFXTdkMexTGpw8BLYK18DwY831EojWav5s9ouuSb4gfdy\nsOhE01bUzV6Pa2Ga1H6FmaRwdQWUOlrA2RhYObsh04lSdAu28DbyIaPp/TJmt/C5\nNBEimE/QnkJWsdu8yfmn81VrcMr2UBXe/1buI/iri60/wgY+LNDZI4r7K+zmcBYP\nvF3cAyuetAmaVPnReCoKfK6HtC5XmzIjgelBE70cTGjx3qkFs4gq3+tPfw/Nxqjx\nqH/MqFpl4Ky+cBFrpFMljlLr8PyG4NFlFTPNPc+Qqh60yYl/9sRIcaCA+Y7WvoHM\no0NsP0u/ea6l2x5DmgvImIkYeQA9wsu6hO7a7sr7kQKBgQD+5P7PbNGapgQI0Un4\nVv/dOHqDJY1XJtuicE+S04yFzlSLgjmlwABA+JXTW1zywuRpvuHxBuw+5a2BOZZx\nBy5OkxqkGIOpGMgdFtqw3BBcWGsRZyuDzOOAx0gDK96K4CiSyQb6WMyw7SWdK0oq\ndcU0avAu81CDQe6X374KQqaTAwKBgQDwlN7HfC1Lju+JeyomBAYKoYKRks2GksR3\n9Sun+UABi0mBX5MmLEgoVRlvXENMjLLsa21XjsMDA7k0ZO9Eyhm5tGw+zd1shnOC\nAQx6VICrrt5Utr5Ftj0aSIUY/KKGnEp1MEeuKyIQjF9HQz2iY3YcGawLm1+JM2Hh\nkoscQbpNCQKBgQDFJ1ScFfxOFOj79P208332m0/PjsUzSuAJVbuGwtBnUr98JN74\nAHlxx5UDpSBQuUQ5MqbKamNjBv3b/TIK/NXpesjZcgisS3nFXj8LGzwgYVd3X4h9\n6oVxvzJJGa6JVnariog2LWct1lAIsEoua2d8ctaSSirVS7MDj9ELWKBFBwKBgENr\nlNsWo6LvFZXTnEY3DnJgPLULDOnPq5tqa6eRJCzKmfjVjek+s6IJ5yzcEEgdje7P\nVD8bVO89VeOm/Z6rfHYcZ9FZ49mL/EbMgHCvybdTNB9NbxkeLxV0iUgtVGag2gTp\nWM0obU1x6SmRYG5nrSvGzf4atrU+XwnWBYIPsWPxAoGBAIVtOo0kyjpbX24GMgMf\nGNobtfe3zMgH/Zc6xU5xzU0aMV7n79AGLTnrUZ1a3MRLXCXt5FGZEX8H9BPhEE3/\nOMicHj5pkH7Fzxlx25DUon2wQ2TYooS8CJTgFEIIej+ZzzqVfiRLB2Sa3N+eFVgL\nLufdKzQ3BGoA0+vjz2XulEWF\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-ovbrug4hmhvb@cloudspeech-1527056457862.iam.gserviceaccount.com",
+  "client_id": "112948558570349134503",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-ovbrug4hmhvb%40cloudspeech-1527056457862.iam.gserviceaccount.com"
+}

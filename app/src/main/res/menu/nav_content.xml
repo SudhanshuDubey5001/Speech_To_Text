@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/output"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Output" />
+
+        <item
+            android:id="@+id/sample"
+            android:icon="@drawable/sample_icon"
+            android:title="Sample" />
+
+        <item
+            android:id="@+id/Log"
+            android:icon="@drawable/log_icon"
+            android:title="Log" />
+    </group>
+</menu>
