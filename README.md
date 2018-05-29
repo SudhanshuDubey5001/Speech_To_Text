@@ -1,6 +1,6 @@
 # Speech_To_Text
-Cloud Speech to text App\n
-Uses Google Cloud Rest APIs to convert Speech to text\n
+Cloud Speech to text App
+Uses Google Cloud Rest APIs to convert Speech to text
 
 ->Samples included
 ->Use your own API key in "Conversion" class
